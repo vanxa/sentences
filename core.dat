@@ -1,0 +1,6 @@
+S -> NP VP
+NP -> DET N
+NP -> N
+N -> ADJ N
+ADJ -> ADV ADJ
+VP -> V NP
